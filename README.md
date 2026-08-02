@@ -1,1 +1,1 @@
-# bxc
+# bxcfg
